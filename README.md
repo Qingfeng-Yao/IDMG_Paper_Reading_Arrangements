@@ -17,4 +17,10 @@
 | 李鸿政 | 蒲赠霖 | 王子泓 | 刘辉 |
 | 顾希之 |  | 史一斐 | 王海江 |
 
+## 参考资料
+### 如何阅读科技文献
+- [Efficient Reading of Papers in Science and Technology](https://www.cs.columbia.edu/~hgs/netbib/efficientReading.pdf)
+- [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+- [How to Read a Scientific Paper](http://www.cs.um.edu.mt/gordon.pace/Teaching/HowToReadAPaper/HowToReadAPaper.pdf)
+
 ## 具体安排
