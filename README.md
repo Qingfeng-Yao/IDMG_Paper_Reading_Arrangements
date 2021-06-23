@@ -24,4 +24,4 @@
 - [How to Read a Scientific Paper](http://www.cs.um.edu.mt/gordon.pace/Teaching/HowToReadAPaper/HowToReadAPaper.pdf)
 
 ## 具体安排
-考虑到研一的期末安排，第一次论文阅读暂定于7.3
+第一次论文阅读暂定于7.17
